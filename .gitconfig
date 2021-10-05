@@ -1,0 +1,7 @@
+[init]
+	defaultBranch = master
+[user]
+	email = firecubeez@gmail.com
+	name = FireCubez
+[credential]
+	helper = store
